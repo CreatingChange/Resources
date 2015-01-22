@@ -3,8 +3,8 @@
 **Coding at Creating Change - Additional Resources**
 
 ## Cheat Sheets
-<li>Git</li>
-<li>[CSS](http://goo.gl/YYyWQA)</li>
+<li>hello</li>
+<li>hello</li>
 
 ## Learning Web Development
 <li>[CodeAcademy](http://www.codeacademy.com)</li>
