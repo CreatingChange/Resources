@@ -3,15 +3,15 @@
 **Coding at Creating Change - Additional Resources**
 
 ## Cheat Sheets
--[HTML](http://goo.gl/xXMUa3)
--[CSS](http://goo.gl/YYyWQA)
+<li>[HTML](http://goo.gl/xXMUa3)</li>
+<li>[CSS](http://goo.gl/YYyWQA)</li>
 
 ## Learning Web Development
--[CodeAcademy](http://www.codeacademy.com)
--[Treehouse](http://www.teamtreehouse.com)
--[Code School](http://www.codeschool.com)
--[Epicodus's online curriculum](http://www.learnhowtoprogram.com)
+<li>[CodeAcademy](http://www.codeacademy.com)</li>
+<li>[Treehouse](http://www.teamtreehouse.com)</li>
+<li>[Code School](http://www.codeschool.com)</li>
+<li>[Epicodus's online curriculum](http://www.learnhowtoprogram.com)</li>
 
 ## Deployment and Making Your Page Live
--[Site44](http://www.site44.com) / [Dropbox](http://www.dropbox.com)
--[Heroku](http://www.heroku.com/)
+<li>[Site44](http://www.site44.com) / [Dropbox](http://www.dropbox.com)</li>
+<li>[Heroku](http://www.heroku.com/)</li>
