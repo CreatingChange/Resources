@@ -2,6 +2,11 @@
 
 **Coding at Creating Change - Additional Resources**
 
+## How the Internet Works
+[How does the internet work?](https://www.youtube.com/watch?v=i5oe63pOhLI&feature=youtu.be)
+
+[How the Internet Works for Developers - Pt 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+
 ## Cheat Sheets
 [HTML](http://goo.gl/xXMUa3)
 
